@@ -53,7 +53,7 @@ class Mercadoajuda
 
     public static function getTemplates()
     {
-        $templates = "Nós também desenvolvemos tamplates exclusivos!\n\n";
+        $templates = "Nós também desenvolvemos templates exclusivos!\n\n";
         $templates.= "https://mercadoajuda.com.br/templates-profissionais";
 
         return new Mercadoajuda($templates);
